@@ -1,0 +1,5 @@
+Link :
+
+> URL Dataset : https://www.kaggle.com/datasets/faldoae/padangfood
+> URL Model : https://drive.google.com/file/d/1XA6DRBC27UdDlX4-nEcno_KKeCgVA6Ju/view?usp=sharing
+> URL Deployment : https://padangfoodprediction.streamlit.app/
